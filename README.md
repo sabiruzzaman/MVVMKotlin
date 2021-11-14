@@ -1,5 +1,5 @@
 # MVVMKotlin
-# Kotlin
-# MVVM
-# viewBinding
-# Retrofit 
+#Kotlin
+#MVVM
+#viewBinding
+#Retrofit 
